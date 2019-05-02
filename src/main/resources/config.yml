@@ -62,21 +62,21 @@ discord:
   # create one, once you have it, replace the text between the
   # quotes with your client id.
   #
-  clientId: 'YourBotClientIdShouldGoHere'
+  clientId: '573489891099410443'
 
   # This is your Discord application token, if you don't have a Discord
   # application, check the link above and follow the short guide to
   # create one, once you have it, replace the text between the
   # quotes with your token.
   #
-  token: 'YourBotTokenShouldGoHere'
+  token: 'NTczNDg5ODkxMDk5NDEwNDQz.XMrmIQ.JtpkeLqGSEE4RPbYq3ZzH7nsd8Y'
 
   # This is the OAuth2 URL used for invite links, you should replace
   # the "<client_id>" with your Discord application client ID to
   # make the link valid so people can actually use it to invite
   # your bot to their server.
   #
-  oauth: 'https://discordapp.com/oauth2/authorize?&client_id=<client_id>&scope=bot&permissions=66186303'
+  oauth: 'https://discordapp.com/oauth2/authorize?&client_id=573489891099410443&scope=bot&permissions=66186303'
 
 #--------------------------------------------------------------------------
 # Database Information
@@ -203,7 +203,7 @@ system-prefix: ';'
 
 playing:
   - '!help'
-  - 'watching:avairebot.com'
+  - 'watching:Kirby's Bot'
   - 'listening:%users% users'
   - 'playing:in %guilds% servers'
 
